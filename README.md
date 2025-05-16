@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | B.Tech Student at Haldia Institute of Technology</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Turning+Data+into+Insights;Lifelong+Learner+%F0%9F%93%9A;Data+Cleaning+%7C+EDA+%7C+Visualization;Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Turning+Data+into+Insights;Lifelong+Learner+%F0%9F%93%9A;Data+Cleaning+%7C+EDA+%7C+Visualization; Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI" alt="Typing SVG" />
 </p>
 
 ---
