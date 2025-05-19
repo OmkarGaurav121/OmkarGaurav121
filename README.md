@@ -47,6 +47,7 @@
 | [Sales Data Analysis](https://github.com/your-github-username/Sales-Data-Analysis) | Exploratory data analysis on retail sales data | Python, Pandas, Matplotlib |
 | [HR Dashboard - Power BI](https://github.com/your-github-username/HR-PowerBI-Dashboard) | Interactive HR dashboard with KPIs and slicers | Power BI |
 | [Netflix Movie Dataset Analysis](https://github.com/OmkarGaurav121/Netflix-Movie-Dataset-Analysis-) | In-depth EDA of Netflix movie data with visualizations | Python, Pandas, Seaborn |
+| [OLA Data Analyst Project](https://github.com/OmkarGaurav121/OLA_Data_Analyst_Project) | Data analysis on OLA ride dataset using Excel, SQL & Power BI | Power BI, SQL, Excel |
 ---
 
 ## 📫 Connect with Me
