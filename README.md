@@ -46,8 +46,7 @@
 |--------|-------------|-------|
 | [Sales Data Analysis](https://github.com/your-github-username/Sales-Data-Analysis) | Exploratory data analysis on retail sales data | Python, Pandas, Matplotlib |
 | [HR Dashboard - Power BI](https://github.com/your-github-username/HR-PowerBI-Dashboard) | Interactive HR dashboard with KPIs and slicers | Power BI |
-| [Netflix Data Insights](https://github.com/your-github-username/Netflix-EDA) | Analyzing trends in Netflix content | Python, Pandas, Seaborn |
-
+| [Netflix Movie Dataset Analysis](https://github.com/OmkarGaurav121/Netflix-Movie-Dataset-Analysis-) | In-depth EDA of Netflix movie data with visualizations | Python, Pandas, Seaborn |
 ---
 
 ## 📫 Connect with Me
